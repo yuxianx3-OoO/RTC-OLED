@@ -1,0 +1,11 @@
+# 编译产生的文件
+build/
+
+# 临时文件
+*.elf
+*.bin
+*.hex
+*.map
+
+# 本地工具缓存
+.settings/
